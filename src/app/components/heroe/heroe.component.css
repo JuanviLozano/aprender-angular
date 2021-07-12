@@ -1,0 +1,9 @@
+.icono {
+    width: 25%;
+}
+
+.volver {
+    display: flex;
+    justify-content: center;
+    margin: 10% 25%
+}
